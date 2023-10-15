@@ -5,7 +5,7 @@ A bluetooth stress testing tool  using l2ping.
 
 Requires bluez l2ping
 
-
+### NOTE: This tool may cause the target device to crash or turn off!!!
 
 ## Usage
 ```shell
