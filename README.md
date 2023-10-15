@@ -14,7 +14,7 @@ sudo ./blujam  -d <target addr> [-t thread count] [-p packet size]
 
 ## Example
 ```
-sudo ./bluejam -d A4:81:HC:03:60:47 -t 5
+sudo ./blujam -d A4:81:HC:03:60:47 -t 5
 ```
 ## Params
 ```
