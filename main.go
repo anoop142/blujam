@@ -1,6 +1,6 @@
 /*
 go version of crypt0boy's
-Bluetooth DOos script
+Bluetooth DOS script
 
 Anoop S
 2023
