@@ -3,7 +3,7 @@ A bluetooth stress testing tool  using l2ping.
 
 ### Based on [BLUETOOTH-DOS-ATTACK-SCRIPT](https://github.com/crypt0b0y/BLUETOOTH-DOS-ATTACK-SCRIPT)
 
-### Requires bluez l2ping
+Requires bluez l2ping
 
 
 
